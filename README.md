@@ -10,7 +10,7 @@ This module will teach you various critical cyber security skills for effectivel
 
 | Topic Name              | Status         | Link                                                              |
 |--------------------------|----------------|-------------------------------------------------------------------|
-| CyberChef: The Basics    | ✅ Completed   | [View Write-Up]()    |
+| CyberChef: The Basics    | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/CyberChef-The-Basics/) |
 | CAPA: The Basics         | 🟡 In Progress | [View Write-Up]()         |
 | REMnux: Getting Started  | ❌ Not Started | [View Write-Up]()  |
 | FlareVM: Arsenal of Tools| ❌ Not Started | [View Write-Up]()|
@@ -20,8 +20,8 @@ This module will teach you various critical cyber security skills for effectivel
 ### 🧠 Overview
 
 ### 🔧 CyberChef: The Basics  
-- coming soon...
-- coming soon...
+- Learned how to use CyberChef, a web-based tool for encoding, decoding, and transforming data through step-by-step “recipes”.  
+- Practised using operations like Base64, URL encoding, ROT13, and data extraction to solve real-world-style challenges in a fun, hands-on way.
 
 ### 🕵️ CAPA: The Basics  
 - coming soon...
