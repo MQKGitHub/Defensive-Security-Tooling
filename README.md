@@ -11,8 +11,8 @@ This module will teach you various critical cyber security skills for effectivel
 | Topic Name              | Status         | Link                                                              |
 |--------------------------|----------------|-------------------------------------------------------------------|
 | CyberChef: The Basics    | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/CyberChef-The-Basics/) |
-| CAPA: The Basics         | 🟡 In Progress | [View Write-Up]()         |
-| REMnux: Getting Started  | ❌ Not Started | [View Write-Up]()  |
+| CAPA: The Basics         | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/CAPA-The-Basics/)      |
+| REMnux: Getting Started  | 🟡 In Progress | [View Write-Up]()  |
 | FlareVM: Arsenal of Tools| ❌ Not Started | [View Write-Up]()|
 
 ---
@@ -24,8 +24,8 @@ This module will teach you various critical cyber security skills for effectivel
 - Practised using operations like Base64, URL encoding, ROT13, and data extraction to solve real-world-style challenges in a fun, hands-on way.
 
 ### 🕵️ CAPA: The Basics  
-- coming soon...
-- coming soon...
+- Explored CAPA, a static malware analysis tool, and learned how it detects behaviors like process creation and HTTP communication using predefined rules and frameworks like MITRE ATT&CK and MBC.  
+- Gained hands-on experience analyzing binary files, interpreting verbose outputs, and using CAPA Web Explorer for clearer visualization of results.
 
 ### 🧪 REMnux: Getting Started  
 - coming soon...
