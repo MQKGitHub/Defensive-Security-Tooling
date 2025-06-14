@@ -10,10 +10,10 @@ This module will teach you various critical cyber security skills for effectivel
 
 | Topic Name              | Status         | Link                                                              |
 |--------------------------|----------------|-------------------------------------------------------------------|
-| CyberChef: The Basics    | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/CyberChef-The-Basics/)   |
-| CAPA: The Basics         | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/CAPA-The-Basics/)        |
-| REMnux: Getting Started  | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/REMnux-Getting-Started/) |
-| FlareVM: Arsenal of Tools| 🟡 In Progress | [View Write-Up]()|
+| CyberChef: The Basics    | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/CyberChef-The-Basics/)     |
+| CAPA: The Basics         | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/CAPA-The-Basics/)          |
+| REMnux: Getting Started  | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/REMnux-Getting-Started/)   |
+| FlareVM: Arsenal of Tools| ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/FlareVM-Arsenal-of-Tools/) |
 
 ---
 
@@ -32,5 +32,5 @@ This module will teach you various critical cyber security skills for effectivel
 - Gained hands-on experience de-obfuscating PowerShell scripts, analyzing malicious Office files, and using `strings` for quick binary triage in a safe lab environment.  
 
 ### 🛠 FlareVM: Arsenal of Tools  
-- coming soon...
-- coming soon... 
+- Learned how to use FlareVM’s suite of tools for static and dynamic malware analysis, including PEStudio, Procmon, and FLOSS.  
+- Gained hands-on experience spotting suspicious behaviour, decrypting strings, and linking malware activity to network traffic.  
